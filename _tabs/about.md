@@ -11,8 +11,10 @@ order: 4
 ---
 
 
-## Do-yoon Kim
+# Do-yoon Kim
+Web developer in Seoul, South Korea. 
 
-I'm...
-* Web developer and Coffee Lover. 
-* 
+## Specialty
+* React
+* Express
+* Typescript
