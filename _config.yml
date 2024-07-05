@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Just wanna be free.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://do-yoon.github.io'
 
 github:
   username: do-yoon             # change to your github username
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Do-yoon Kim
-  email: do.yoon.like.cheeze@gmail.com  # change to your email address
+  email: 1.kim.doyoon@gmail.com  # change to your email address
 
   links:
     # The first element serves as the copyright owner's link
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://avatars.githubusercontent.com/u/33196437?v=4'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
